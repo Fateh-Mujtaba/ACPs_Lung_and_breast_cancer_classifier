@@ -1,0 +1,902 @@
+ID,sequence,class
+1,AIGKFLHSAKKFGKAFVGEIMNS,mod. active
+2,FAKALAKLAKKLL,mod. active
+3,FAKALKALLKALKAL,mod. active
+4,FAKFLAKFLKKAL,mod. active
+5,FAKIIAKIAKIAKKIL,inactive - exp
+6,FAKKFAKKFKKFAKKFAKFAFAF,mod. active
+7,FAKKLAKKLAKAAL,inactive - exp
+8,FAKKLAKKLAKAL,inactive - exp
+9,FAKKLAKKLAKLAL,inactive - exp
+10,FAKKLAKKLAKLL,inactive - exp
+11,FAKKLAKKLKKLAKKLAK,inactive - exp
+12,FAKKLAKKLKKLAKKLAKKWKL,mod. active
+13,FAKKLAKKLKKLAKKLAKLAKKL,inactive - exp
+14,FAKKLAKKLKKLAKKLAKLALALKALALKAL,mod. active
+15,FAKKLAKKLKKLAKKLIGAVLKV,mod. active
+16,FAKKLAKKLKKLAKLALAK,inactive - exp
+17,FAKKLAKKLKKLAKLALAL,inactive - exp
+18,FAKKLAKKLL,inactive - exp
+19,FAKKLAKLAKKALAL,inactive - exp
+20,FAKKLAKLAKKL,inactive - exp
+21,FAKKLAKLAKKLAKLAL,mod. active
+22,FAKKLAKLAKKLAKLALAL,mod. active
+23,FAKKLAKLAKKLLAL,mod. active
+24,FAKKLAKLALKLAKL,mod. active
+25,FAKKLKKLAKLAKKL,inactive - exp
+26,FAKKLLAKALKL,inactive - exp
+27,FAKLAKKALAKLL,inactive - exp
+28,FAKLF,inactive - exp
+29,FAKLFAKLAKKFAL,inactive - exp
+30,FAKLLAKALKKAL,mod. active
+31,FAKLLAKALKKFAL,mod. active
+32,FAKLLAKALKKFL,mod. active
+33,FAKLLAKALKKL,inactive - exp
+34,FAKLLAKALKKLL,very active
+35,FAKLLAKALKLKL,inactive - exp
+36,FAKLLAKFLKKAL,mod. active
+37,FAKLLAKLAKAKL,inactive - exp
+38,FAKLLAKLAKKAA,inactive - exp
+39,FAKLLAKLAKKAL,inactive - exp
+40,FAKLLAKLAKKFAL,inactive - exp
+41,FAKLLAKLAKKGL,inactive - exp
+42,FAKLLAKLAKKIL,inactive - exp
+43,FAKLLAKLAKKL,inactive - exp
+44,FAKLLAKLAKKLL,very active
+45,FAKLLAKLAKKSL,inactive - exp
+46,FAKLLAKLAKKVL,mod. active
+47,FAKLLAKLAKLKL,inactive - exp
+48,FAKLLFKALKKAL,inactive - exp
+49,FAKLLKLAAKKLL,inactive - exp
+50,FAKLWAKLAFGKGIGKVGKKLL,mod. active
+51,FAKLWAKLAKKL,inactive - exp
+52,FALAAKALKKLAKKLKKLAKKAL,mod. active
+53,FALAKLAKKAKAKLKKALKAL,mod. active
+54,FALALKALKK,inactive - exp
+55,FALALKALKKAL,inactive - exp
+56,FALALKALKKALKKLKKALKKAL,inactive - exp
+57,FALALKALKKL,mod. active
+58,FALALKALKKLAKKLKKLAKKAL,mod. active
+59,FALALKALKKLKKALKKAL,mod. active
+60,FALALKALKKLLKKLKKLAKKAL,mod. active
+61,FALALKKALKALKKAL,mod. active
+62,FALALKLAKKAL,inactive - exp
+63,FALKALKKLKKALKKAL,mod. active
+64,FALLKALKKAL,inactive - exp
+65,FALLKALLKKAL,inactive - exp
+66,FAVGLRAIKRALKKLRRGVRKVAKDL,inactive - exp
+67,FKLAFKLAKKAFL,inactive - exp
+68,FKRLAKIKVLRLAKIKR,mod. active
+69,FKVKFKVKVK,inactive - exp
+70,FLGALFHALSKLL,mod. active
+71,FLGALFKALSHLL,mod. active
+72,FLGALFKALSKLL,mod. active
+73,FLGMIPGLIGGLISAFK,very active
+74,FLGMIPKLIKKLIKAFK,very active
+75,FLGWLFKWAKK,mod. active
+76,FLGWLFKWAWK,mod. active
+77,FLKLLAGLLKNFA,mod. active
+78,FLKLLKKLAAKFLPTIICKISYKC,very active
+79,FLKLLKKLAAKLF,mod. active
+80,FLKWLFKWAKK,mod. active
+81,FLSLIPKLVKKIIKAFK,very active
+82,FLSLIPSLVGGSISAFK,inactive - exp
+83,FLWWLFKWAWK,mod. active
+84,GIGAVLKVLTTGLPALISWIKRKRQQ,mod. active
+85,GIGKFLHAAKKFAKAFVAEIMNS,mod. active
+86,GIGKFLHSAKKFAKAFVAEIMNS,mod. active
+87,GIGKFLHSAKKFGKAFVGEIMNS,mod. active
+88,GIGKFLKKAKKFAKAFVKIINN,very active
+89,GIGKFLKKAKKFGKAFVKILKK,inactive - exp
+90,GLFAVIKKVAAVIKKL,mod. active
+91,GLFAVIKKVAAVIRRL,mod. active
+92,GLFAVIKKVAKVIKKL,very active
+93,GLFAVIKKVASVIGGL,very active
+94,GLFAVIKKVASVIKGL,mod. active
+95,GLFAVIKKVASVIKKL,mod. active
+96,GLFDIAKKVIGVIGSL,mod. active
+97,GLFDIIKKIAESF,mod. active
+98,GLFDIVKKIAGHIAGSI,mod. active
+99,GLFDIVKKIAGHIASSI,mod. active
+100,GLFDIVKKIAGHIVSSI,mod. active
+101,GLFDIVKKVVGAFGSL,mod. active
+102,GLFDVIAKVASVIKKL,mod. active
+103,GLFDVIKAVASVIGGL,mod. active
+104,GLFDVIKKVAAVIGGL,mod. active
+105,GLFDVIKKVASVIGGL,mod. active
+106,GLFDVIKKVASVIKGL,mod. active
+107,GLFDVIKKVASVIKKL,mod. active
+108,GLFKVIKKVAKVIKKL,mod. active
+109,GLFKVIKKVASVIGGL,mod. active
+110,ILPWKWPWWPWRR,inactive - exp
+111,KKKFPWWWPFKKK,mod. active
+112,KKKFPWWWPFKKKCKKKFPWWWPFKKKC,very active
+113,KKKFPWWWPFKKKKKKFPWWWPFKKKK,very active
+114,KKVVFKVKFK,inactive - exp
+115,KLAKKLAKLAKLAKAL,mod. active
+116,KLALKLALKALKAAKLA,inactive - exp
+117,KTKLFKKFAKKLAKKLKKLAKKL,mod. active
+118,KWKKFLKIGIGKFLHLAKKF,very active
+119,KWKLAKKALALL,inactive - exp
+120,KWKLFAKIGIGKFLHLAKKF,very active
+121,KWKLFKKALKKLKKALKKAL,mod. active
+122,KWKLFKKIGAVLKVL,mod. active
+123,KWKLFKKIGIGAFLHLAKKF,very active
+124,KWKLFKKIGIGAFLHSAKKF,mod. active
+125,KWKLFKKIGIGAVLKVLKKG,very active
+126,KWKLFKKIGIGAVLKVLTTG,mod. active
+127,KWKLFKKIGIGKFKLAKKF,very active
+128,KWKLFKKIGIGKFLHLAKKF,very active
+129,KWKLFKKIGIGKFLHSAKKF,mod. active
+130,KWKLFKKIGIGKFLHSATTF,mod. active
+131,KWKLFKKIKFLHSAKKF,inactive - exp
+132,KWKLFKKIPKFLHSAKKF,mod. active
+133,KWKLFKKKTKLFKKFAKKLAKKL,mod. active
+134,KWKSFAKTFKSAKKTVLHTALKAISS,mod. active
+135,KWKSFLKTFKSAKKTVAHTAAKAISS,mod. active
+136,KWKSFLKTFKSAKKTVAHTALKAISS,mod. active
+137,KWKSFLKTFKSAKKTVLHTALKAISS,very active
+138,KWKSFLKTFKSAKKTVLHTLLKAISS,very active
+139,KWKSFLKTFKSLKKTVLHTALKAISS,very active
+140,KWKSFLKTFKSLKKTVLHTLLKAISS,very active
+141,KWKSFLKTFKSLKKTVLHTLLKLISS,very active
+142,KYKKALKKLAKLL,inactive - exp
+143,LGGIVSAVKKIVDFLG,mod. active
+144,LPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,mod. active
+145,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,inactive - exp
+146,RAGLQFPVGRLLRRLLRRLLR,very active
+147,VAKKLAKLAKKLAKLAL,very active
+148,VAKLLAKLAKKLL,mod. active
+149,VAKLLAKLAKKVL,inactive - exp
+150,VALALKALKKALKKLKKALKKAL,inactive - exp
+151,WALAL,inactive - exp
+152,AADIFSKFKKDMEVKFA,inactive - virtual
+153,AAQKDNVKSSWAKASA,inactive - virtual
+154,AASQRKLIAEKFAQALMSSL,inactive - virtual
+155,AAYATLYEALVLVATLAAP,inactive - virtual
+156,AEAHESIRLVFHDS,inactive - virtual
+157,AEGEREARVFTLWLNSL,inactive - virtual
+158,AEGVATADPLMRLAKQLK,inactive - virtual
+159,AEHAKVLMDSLTGVWDNFLT,inactive - virtual
+160,AEHLAKAELTTVFSTLYQKF,inactive - virtual
+161,AEKAKYDEIFLKT,inactive - virtual
+162,AFFTIAAVARVLD,inactive - virtual
+163,AFRHSVKEELNYIRRRLERFPNRL,inactive - virtual
+164,AGDVLHNVLQMLIIESHS,inactive - virtual
+165,AGEMVRQARILAQATSDLVNAIKADA,inactive - virtual
+166,AGNLDIMTSAALATAERMAQSMLN,inactive - virtual
+167,AHAIGVLLDNL,inactive - virtual
+168,AIEKEILIEAISS,inactive - virtual
+169,AKQEKIIIQVALNDITHVVELL,inactive - virtual
+170,AKVVRTALEDAASVAGLLIT,inactive - virtual
+171,ALAVAAKPFL,inactive - virtual
+172,ALGKVIKKWGTTVAKLA,inactive - virtual
+173,ALYGLLKEEMGEILAK,inactive - virtual
+174,AMFEQMRANVGKLLKG,inactive - virtual
+175,APDAEGRAIQAVYWANKWAKEQG,inactive - virtual
+176,APDLLISLATVLYHLQQ,inactive - virtual
+177,APEDVRKSSKEVL,inactive - virtual
+178,APLLNFVRDFVREDAKYLYSSLV,inactive - virtual
+179,AQTSRWAAMQIGMSFISAY,inactive - virtual
+180,ARDEAEMEYLKIAQ,inactive - virtual
+181,ASLPEAIEALTKG,inactive - virtual
+182,ATLKNLGSVHVSKG,inactive - virtual
+183,AVDTLVLALAEAT,inactive - virtual
+184,DAAALFRLHKFLTKW,inactive - virtual
+185,DAAGLASRHKG,inactive - virtual
+186,DAENRDLFLALLSV,inactive - virtual
+187,DAHAWMIGQLKGL,inactive - virtual
+188,DALEIFKTLFSLVMRFSSYL,inactive - virtual
+189,DAMLRTSMVATQLVGLAMMRYV,inactive - virtual
+190,DARAKKLLDKWAKWING,inactive - virtual
+191,DATAALALTMA,inactive - virtual
+192,DATLISELQQM,inactive - virtual
+193,DDADLEKFVIEY,inactive - virtual
+194,DDETLGVLMWILDRSIH,inactive - virtual
+195,DDETREELEELLIQA,inactive - virtual
+196,DDRVQSHILHLEHDLVHVTRKN,inactive - virtual
+197,DDYLKEQVLHMKQYVSDN,inactive - virtual
+198,DEAAFQKLMSNLD,inactive - virtual
+199,DEAGLMRELRLFRRRIMVRIAWAQTL,inactive - virtual
+200,DEETMERIMRELKKK,inactive - virtual
+201,DEFTKQHIVGK,inactive - virtual
+202,DEKAFKNTYRQAMND,inactive - virtual
+203,DEKKILKDFLIQ,inactive - virtual
+204,DEKSIITYVSSLYDAM,inactive - virtual
+205,DELLSKMRFAL,inactive - virtual
+206,DEPQVQAKIMAYLQQEQSNR,inactive - virtual
+207,DEQYREGAVRTVASFRERLDR,inactive - virtual
+208,DERLLQKYRAQVFEWG,inactive - virtual
+209,DEVLLALAEQLGT,inactive - virtual
+210,DFAALAQTAHRLKGVFAMLN,inactive - virtual
+211,DFLEEQYKGQRDLAGKASTLKK,inactive - virtual
+212,DFPALIKQASLDALFK,inactive - virtual
+213,DFSETINAYFVAKLL,inactive - virtual
+214,DGALKRAEELKTQANDYFK,inactive - virtual
+215,DGFSVLMRAMQQ,inactive - virtual
+216,DGGGFVISKHPVRLAKKLNR,inactive - virtual
+217,DHAVLEVLATPVREALLARFG,inactive - virtual
+218,DIFDFMERWIEKKLEYSASH,inactive - virtual
+219,DIHAAIEMLLG,inactive - virtual
+220,DIIGTEITSALKNVYSIAIAWIRGYESRKN,inactive - virtual
+221,DILREIGMIARALDSISNIEF,inactive - virtual
+222,DIRAVLRDLSFHLNGHILHSIFWPNM,inactive - virtual
+223,DIRTSLANDMAIYGDIIEATREHTELAENL,inactive - virtual
+224,DIYQQVRDELKRAS,inactive - virtual
+225,DKETMNIHHTK,inactive - virtual
+226,DLAANNGGWQWS,inactive - virtual
+227,DLARIEQFLDALWLE,inactive - virtual
+228,DLEAKKMYFDAVQAIETHL,inactive - virtual
+229,DLESDALGWQYITG,inactive - virtual
+230,DLGRKITSALRSLSN,inactive - virtual
+231,DLKQAESWLHKQAQKEGWSKAARLH,inactive - virtual
+232,DLKRAESMLQQA,inactive - virtual
+233,DLKTMTERLRS,inactive - virtual
+234,DLQLNANAERINVYY,inactive - virtual
+235,DLRELIARVRALIRRKS,inactive - virtual
+236,DLSASRSAIDSLNNRMLSQIWSH,inactive - virtual
+237,DLVDFAVEYFTRLREARRGLEHHH,inactive - virtual
+238,DMASLQQQRQE,inactive - virtual
+239,DMNQVLDAYEN,inactive - virtual
+240,DNAMANQYETLANARQKGIEKYL,inactive - virtual
+241,DNKTRFKIIKEKLKEF,inactive - virtual
+242,DNTYLNTAESLYDEF,inactive - virtual
+243,DNVVLQLQVARFLMKTVAQ,inactive - virtual
+244,DPARALFAAMSQ,inactive - virtual
+245,DPATVKKVVNFL,inactive - virtual
+246,DPAWQGFRELIEKAL,inactive - virtual
+247,DPEKVLFLAGNLLARLTE,inactive - virtual
+248,DPETLEAIAEN,inactive - virtual
+249,DPETNINIGTSYLQYVYQQF,inactive - virtual
+250,DPKRLQASLQTIVGMVVYSW,inactive - virtual
+251,DPLRERQVAEKQLAALGDILSA,inactive - virtual
+252,DPLWKKEMFEKYLSN,inactive - virtual
+253,DPQKADAVAVN,inactive - virtual
+254,DPQKRAVVNQRLYFDMGT,inactive - virtual
+255,DPTKLNHAVAGL,inactive - virtual
+256,DPYVILITEILL,inactive - virtual
+257,DQDKIQKAIAAG,inactive - virtual
+258,DQEDVAQTIRDYD,inactive - virtual
+259,DQGTLFELILAANYLD,inactive - virtual
+260,DQHLMAEYRELPRVFGAVRKHVANG,inactive - virtual
+261,DQNGEIYMWPVAQA,inactive - virtual
+262,DQQGVFVKGYAM,inactive - virtual
+263,DRASYEARERHVAERLLMHLEEM,inactive - virtual
+264,DRAVIEHNLLSASKL,inactive - virtual
+265,DRQLRSSIERVISIFQS,inactive - virtual
+266,DRTSFDKLANS,inactive - virtual
+267,DSEQVVHQLERLIAR,inactive - virtual
+268,DSGYRSAMSVQSSL,inactive - virtual
+269,DSMVVLQQRAYEILMTIME,inactive - virtual
+270,DSSVIISALKTYLVSG,inactive - virtual
+271,DSVASLLDVVKSTG,inactive - virtual
+272,DSVTNDIFNVAKASIEKHIWMLQAEL,inactive - virtual
+273,DTAFLMEQLELREELDEIEQAK,inactive - virtual
+274,DTMKDAGMQMKKVLDS,inactive - virtual
+275,DTRAWALAEKLFG,inactive - virtual
+276,DVALADSFDAL,inactive - virtual
+277,DVEAVEIMQRIHVLRSQGGFN,inactive - virtual
+278,DVLAEDTITALLH,inactive - virtual
+279,DVRVKEYFDDIARYFSIGLLNLIHLFG,inactive - virtual
+280,DWGEAFTAINL,inactive - virtual
+281,DWLKRLQKIFPPILSI,inactive - virtual
+282,DWYRTYAELRETA,inactive - virtual
+283,DYERFKSYIQTL,inactive - virtual
+284,EALVHKLTERM,inactive - virtual
+285,EAQKIDRLVQSFSGAYFQQN,inactive - virtual
+286,EDDIMYLM,inactive - virtual
+287,EDDSKLASRKYARIIQKI,inactive - virtual
+288,EDKEAVFDVVDTLTAVLQVATGVISTL,inactive - virtual
+289,EDLPKWSGYFEKLLKKN,inactive - virtual
+290,EDMIFEIFKNYLTKVAYYARQVAEMN,inactive - virtual
+291,EDNLLRQLAQKV,inactive - virtual
+292,EELHTSLVEEL,inactive - virtual
+293,EEMIAEFKAAFDMF,inactive - virtual
+294,EERVKNGLERLKKAIKSGKQST,inactive - virtual
+295,EESDIKYKTSKNFINKVY,inactive - virtual
+296,EEVKKHGTTVLTALGRILKQ,inactive - virtual
+297,EFPEMLAEIIT,inactive - virtual
+298,EFRDLHLFLGEAAETAEEVADELAERVQAL,inactive - virtual
+299,EGDQQLLKRVLVRKL,inactive - virtual
+300,EGHVAAVEVLRGIHRIADMS,inactive - virtual
+301,EGKDRELYGKLHETLKKVTEDLEA,inactive - virtual
+302,EGNKRLDSVNSIVS,inactive - virtual
+303,EGQQRRIRQQRLISIGKWIADNQ,inactive - virtual
+304,EGVAWLEAVLRLLAQ,inactive - virtual
+305,EHEIQEWYKGFLRD,inactive - virtual
+306,EIEKFRVWISIL,inactive - virtual
+307,EISEMVRMRERILDSIHLG,inactive - virtual
+308,EISKLVKKMISSWKDAIN,inactive - virtual
+309,EKETFREKFMQH,inactive - virtual
+310,EKNSYRKLVGNLYFVYSAMEEEMAKF,inactive - virtual
+311,EKVQYLTRSAIRR,inactive - virtual
+312,EMNYYTVLFGVSRALGVLAQLIWSRAL,inactive - virtual
+313,EPEEVFKSVLKEMEG,inactive - virtual
+314,EPEKVDKLQEPLLEALRLYARRRR,inactive - virtual
+315,EPGQRKIVMHK,inactive - virtual
+316,EQEILRQVKKAYDRAARLG,inactive - virtual
+317,EQEVYAQVARL,inactive - virtual
+318,EQPSLVRTLDQLEDK,inactive - virtual
+319,ERQEVKQMVVATLAES,inactive - virtual
+320,ERVRAAMEKLA,inactive - virtual
+321,ESLYESIRRRYEEL,inactive - virtual
+322,ESPVRKILRIVFHDAI,inactive - virtual
+323,ETNIRVALEKSFL,inactive - virtual
+324,EVKRRFPTKLGAWALIWWLL,inactive - virtual
+325,EVKRSVNRDFAKWFLIVFI,inactive - virtual
+326,EVNRNFGERINDLRILILLL,inactive - virtual
+327,EVVGRVSKLWNEWWLIV,inactive - virtual
+328,EWQTMVAALQA,inactive - virtual
+329,EYKYYKLKLAEMQR,inactive - virtual
+330,FADLFDPVIQERH,inactive - virtual
+331,FALRLRRVINRIGQAWR,inactive - virtual
+332,FEVIDTIKAAVENA,inactive - virtual
+333,FFSFELVESINDVKKSLR,inactive - virtual
+334,FGLKVLGWYSEMKRNVQRLERAIEEV,inactive - virtual
+335,FHSVAEQF,inactive - virtual
+336,FIAVHEMLDGFRTALIDHLDTMAERAVQ,inactive - virtual
+337,FKATIADLSKKR,inactive - virtual
+338,FKEAIEAIAESA,inactive - virtual
+339,FKGKIIKKVISTGAKLI,inactive - virtual
+340,FKSIYRFFEHGLK,inactive - virtual
+341,FKSVQNSLQRILYLWAIRH,inactive - virtual
+342,FLDQNMLAVIDELMQAL,inactive - virtual
+343,FLLKKLKKVATGFAKG,inactive - virtual
+344,FLLSKAKDAKSSAEGAV,inactive - virtual
+345,FNQRRISSAKFLGELYNY,inactive - virtual
+346,FNRMFEKSTHHYTDSVGGILR,inactive - virtual
+347,FPLLVDHTSREADYFRKRLIQLNEG,inactive - virtual
+348,FPNLASAAFYWSKKEN,inactive - virtual
+349,FPQLTQNNSRE,inactive - virtual
+350,FSALNIAVHELSDVGRAIVRN,inactive - virtual
+351,FSEFIQALSVTSRG,inactive - virtual
+352,FTELQRDFLRN,inactive - virtual
+353,FTRIIKAAG,inactive - virtual
+354,FVPVFFVVVRRR,inactive - virtual
+355,FYQTFFDEADELLADMEQHLLDL,inactive - virtual
+356,GAFRKLLQSAKDN,inactive - virtual
+357,GAGTSVNMNTNEVLANIGLELM,inactive - virtual
+358,GAPLARMEVTLALESLFGRF,inactive - virtual
+359,GAQYIQAAGVALGLKMR,inactive - virtual
+360,GAVAIARVFSY,inactive - virtual
+361,GEAEIASLKSQIRA,inactive - virtual
+362,GEAYLLLERYVAFLRA,inactive - virtual
+363,GEDAILKKVAEEAAETLMASKD,inactive - virtual
+364,GEGWAKSILFN,inactive - virtual
+365,GEKRAEEIKKILMT,inactive - virtual
+366,GFFGWFNRMFEKSTHHYTDSVGGI,inactive - virtual
+367,GFKNEVRTPVTKFRIVFFVV,inactive - virtual
+368,GFMIWHPKMDEYMEEIDGYLDEMSERLITL,inactive - virtual
+369,GFSVQRRLWLAS,inactive - virtual
+370,GFYPMVAAQRI,inactive - virtual
+371,GGFAAAIARRA,inactive - virtual
+372,GGKEALAIENFADAL,inactive - virtual
+373,GGSSGVLMSIFFTAAGQKLEQ,inactive - virtual
+374,GHNLISLLEVLSG,inactive - virtual
+375,GIHELAVFAEEH,inactive - virtual
+376,GKASLRAAELYSKY,inactive - virtual
+377,GKDAAAEEISQLLYHVQVMMVARG,inactive - virtual
+378,GKKGPKFIQAVASLKA,inactive - virtual
+379,GKSNMMDAISFVL,inactive - virtual
+380,GKTTAALALARELFG,inactive - virtual
+381,GKTTFVKRHLTG,inactive - virtual
+382,GKTTILYRLQVG,inactive - virtual
+383,GLEKLEESIYRE,inactive - virtual
+384,GLFDKVKSLVPKIAKAV,inactive - virtual
+385,GLFDVIGSQAGGAAPHFLG,inactive - virtual
+386,GLFKLIKFAKKKSPGAF,inactive - virtual
+387,GLGKIIGKVKKSLLKSI,inactive - virtual
+388,GLGLVLKIAVNAFLKLVA,inactive - virtual
+389,GLLDIAGGNAETLAGHAV,inactive - virtual
+390,GLNAELTRYTLSLMVLERKLSSA,inactive - virtual
+391,GLTSLMAIDKL,inactive - virtual
+392,GLWAIAVKAGKVILKLIVFIWIRV,inactive - virtual
+393,GLWKSLGAVVKRVEGLWVGLF,inactive - virtual
+394,GNFADLLAHSDGLIKNISDDLRALDKLI,inactive - virtual
+395,GNYLRAEILYRLK,inactive - virtual
+396,GPDMTAMVALIASV,inactive - virtual
+397,GPKDAVVKVFNQWG,inactive - virtual
+398,GPKKAQLIVGWRELHG,inactive - virtual
+399,GSDFLIHFIDE,inactive - virtual
+400,GSHANEFFFRA,inactive - virtual
+401,GTLRHAANAAFIMLEAAEL,inactive - virtual
+402,GTTTAVIIAGGLLQQAQGLIN,inactive - virtual
+403,GVSGLAAARQLQSF,inactive - virtual
+404,GWQNELLLLLRYLDEN,inactive - virtual
+405,GYKKVSKSYTGEWKKYLNSL,inactive - virtual
+406,HAHASAIAKAYASEIAFEAANQAIQIHG,inactive - virtual
+407,HALRTIVFELLTRH,inactive - virtual
+408,HDKHIEIVVRQM,inactive - virtual
+409,HDLVTDGLITLYIETK,inactive - virtual
+410,HFGSLLLLAAWLAEN,inactive - virtual
+411,HGLVKAGHPLKRKLGH,inactive - virtual
+412,HHKAYVDGANTALDKLAEARDK,inactive - virtual
+413,HKEMAKAFEEW,inactive - virtual
+414,HLDLINMMSRLAREELVHHEQVLRLMKRR,inactive - virtual
+415,HMKMRSQLLIVLQEHLRN,inactive - virtual
+416,HPAFIAHADRVLGGLDIAIST,inactive - virtual
+417,HPFYQALGQLARLTLAQWQAQL,inactive - virtual
+418,HQAAMQMLKETINEEAAEWDRLH,inactive - virtual
+419,HSATRAAMLVRINT,inactive - virtual
+420,HSDWISNANKVRVIYWQMT,inactive - virtual
+421,HSRRGLLKMVGKRRRLLAYLRNK,inactive - virtual
+422,HTFLDDIVGAIAAAAASRLAHSYHD,inactive - virtual
+423,HVVDEKARLIYED,inactive - virtual
+424,HWDKVADMVANFAHEIDTYG,inactive - virtual
+425,IAMVNGLMGVLDKLAHLIDE,inactive - virtual
+426,IASEFKNIATNS,inactive - virtual
+427,IDDLRVIARENLERRRK,inactive - virtual
+428,IDDSVNNLIPFMQKH,inactive - virtual
+429,IEEATEFYENDV,inactive - virtual
+430,IEFRKAFLKIL,inactive - virtual
+431,IGVQQHADKVQRALGEAIDD,inactive - virtual
+432,IHNVVGKL,inactive - virtual
+433,IKPLNNFAAEVGKIRDS,inactive - virtual
+434,IMELLGTVIQHEGIHQGQYYVALKQSG,inactive - virtual
+435,IPAAKINWDRDIEYMAGILEN,inactive - virtual
+436,IPAVANWIKRR,inactive - virtual
+437,IPEAKSFYGFQIMIENIHSETYSLLIDTYI,inactive - virtual
+438,IRVNATKAYEMAL,inactive - virtual
+439,KDAENHKAYLKSH,inactive - virtual
+440,KDFETLKVDFLSKLPEMLKMFEDRL,inactive - virtual
+441,KDTVIEDIIDKTFEEAD,inactive - virtual
+442,KEDIHRSLVEELTKISAKEK,inactive - virtual
+443,KEEGYFYFRSRLSQ,inactive - virtual
+444,KEEVQKVLEDA,inactive - virtual
+445,KEIAEKMVEGRMKKFTGEV,inactive - virtual
+446,KFLKKWEGIWATFKPALSAVV,inactive - virtual
+447,KFLRFILKWFKVIFQ,inactive - virtual
+448,KFLTKLKNIVANIRIWWVILL,inactive - virtual
+449,KGQEYINNIHL,inactive - virtual
+450,KHFDFLAEFNAKAND,inactive - virtual
+451,KHHAAYVNNLNNALKK,inactive - virtual
+452,KIPDDLQADFNKFR,inactive - virtual
+453,KKAEAVATVVAAVDQARVR,inactive - virtual
+454,KKDVKLILDTILETITEALAK,inactive - virtual
+455,KKEELQRSLNILTAF,inactive - virtual
+456,KKQELLEALTKHFQ,inactive - virtual
+457,KKTAERLIVEMKDRFKG,inactive - virtual
+458,KKVKGYKRALTE,inactive - virtual
+459,KLDSRFDNNLGKFRFVLLLFV,inactive - virtual
+460,KLEEKFPQVAAT,inactive - virtual
+461,KLKELALIFISNLVAN,inactive - virtual
+462,KNIKRNVEKIIAQWDERTRK,inactive - virtual
+463,KPEEVEQIKLYVMSREYEDYMAR,inactive - virtual
+464,KPEQYNIVGEHLLATLDEMFS,inactive - virtual
+465,KPQELLSLIIERFE,inactive - virtual
+466,KPQERADLISYLKEATS,inactive - virtual
+467,KPWLSVILFLIRERSR,inactive - virtual
+468,KQAEAEEFVQTLGQSLA,inactive - virtual
+469,KQLTAIAALAE,inactive - virtual
+470,KREIIHAVLTGLALDQLAEQ,inactive - virtual
+471,KREVQNAILTGIQLDKLAED,inactive - virtual
+472,KSEALAKMWGQRK,inactive - virtual
+473,KTASTGFAELLKDRREQV,inactive - virtual
+474,KTFRTTFKTLL,inactive - virtual
+475,KVAEFERLFRQAAG,inactive - virtual
+476,KVNRAVAAEIRNWTWVFLIW,inactive - virtual
+477,KVRETREILDIIDTVYNS,inactive - virtual
+478,KVRGLIEIISN,inactive - virtual
+479,KVSDILTVAIRLEEEGERFYRELS,inactive - virtual
+480,KVVDNFENILII,inactive - virtual
+481,KVWKGVKTIIADVWQV,inactive - virtual
+482,KWEAEKIHIGFRQAY,inactive - virtual
+483,KWVRIWIKVLRGLFVWVWFF,inactive - virtual
+484,KYDHFAGRAYVRLHQD,inactive - virtual
+485,LADLQEQLYNG,inactive - virtual
+486,LDAYINLGNVLKEA,inactive - virtual
+487,LDEAATRSKAWMVDALA,inactive - virtual
+488,LEARMKQFKDMLLER,inactive - virtual
+489,LEEFDKVSKNVD,inactive - virtual
+490,LEPIKAWIEKR,inactive - virtual
+491,LEQVEFKLNQLLENL,inactive - virtual
+492,LHDAIHMAADNAV,inactive - virtual
+493,LKRAEALIHLANAALE,inactive - virtual
+494,LKYVGMVLNEALRLW,inactive - virtual
+495,LLNIRREFIEKY,inactive - virtual
+496,LLPALLQQIGREN,inactive - virtual
+497,LLTEVETYVLSI,inactive - virtual
+498,LMEPVREAAGRLADA,inactive - virtual
+499,LMGHQKKILGSIQTMRAQLT,inactive - virtual
+500,LNNFSRYFLHQSREETEHAEKLMRLQNQRG,inactive - virtual
+501,LPEDQELLFQSASLELFVLRLAYRA,inactive - virtual
+502,LPHFYELFSLWA,inactive - virtual
+503,LPIHYKLSQEFFLKAYEN,inactive - virtual
+504,LQAPLQRRILEIGKKH,inactive - virtual
+505,LQMEFKYLAYLTG,inactive - virtual
+506,LQNAIIEFYTEYY,inactive - virtual
+507,LQWYVSEQHEEEALFRGIVDKIKLIG,inactive - virtual
+508,LREIVENMIKSSLERAIAAY,inactive - virtual
+509,LRSWFRERLIAHRLASVNL,inactive - virtual
+510,LRTYFMERLRHYRQLSL,inactive - virtual
+511,LSTVSNFFMNA,inactive - virtual
+512,LVGALMHVMQKRSR,inactive - virtual
+513,LVLPIAQALKVLG,inactive - virtual
+514,MEALKKQILQI,inactive - virtual
+515,MEKLNQLWEKAQRLH,inactive - virtual
+516,MLEEYRKHVAERAAE,inactive - virtual
+517,MPEVFNYLGIYLTQA,inactive - virtual
+518,MPGTATHTVKMFS,inactive - virtual
+519,MPYTDAVVHEVQRYID,inactive - virtual
+520,MTDQQAEARAF,inactive - virtual
+521,MVFKQMEQVAQFLKAAEDY,inactive - virtual
+522,MYSNRMRSYKQEMGKLETDFKRSRI,inactive - virtual
+523,NAAGWDLLLTLYRSA,inactive - virtual
+524,NAAQLDALAHALLEIPRFSYATR,inactive - virtual
+525,NAGQANEFFNEFWS,inactive - virtual
+526,NAKIARINELAAKAKAGV,inactive - virtual
+527,NAKYVAEATGNFITVMDALKL,inactive - virtual
+528,NASRTVGVVAALL,inactive - virtual
+529,NDAEVKKIAAQYGKD,inactive - virtual
+530,NDEETVALTAGGHT,inactive - virtual
+531,NEEVRIEAIIGLSYR,inactive - virtual
+532,NEQDLGIQYKALKPEVDKLNIMAAKRQQEL,inactive - virtual
+533,NEYIMSLISDN,inactive - virtual
+534,NFKDVIETAKKVMNF,inactive - virtual
+535,NGETFLTELLD,inactive - virtual
+536,NGLEVVKALAQG,inactive - virtual
+537,NIDEIERKIDEAIEKE,inactive - virtual
+538,NIDSYLNAVNIINIFKIIG,inactive - virtual
+539,NIEQLWRDYNKYEEGIN,inactive - virtual
+540,NILKQIFKLLQA,inactive - virtual
+541,NINELFIEISRRI,inactive - virtual
+542,NIPKHTHRFFILVLEI,inactive - virtual
+543,NKDQWEERIQVWHEEH,inactive - virtual
+544,NKEEMMDIVKAIYDMMG,inactive - virtual
+545,NKLVDRWLHVRKHLLVAYYNLVG,inactive - virtual
+546,NKQADSIKQMEERNKKRVENFKKTG,inactive - virtual
+547,NKRAVDWAMRAAMAL,inactive - virtual
+548,NKSVGAVYAILYLS,inactive - virtual
+549,NLDSIQEELADVIAWTVSIANLEG,inactive - virtual
+550,NLEQTARRWLEERG,inactive - virtual
+551,NLESEIHTVLKHLVENN,inactive - virtual
+552,NLFDHFSAVAQRL,inactive - virtual
+553,NLFPIVFGVIFDA,inactive - virtual
+554,NLLYDIVKENG,inactive - virtual
+555,NLNQSIDNFVNMAFFA,inactive - virtual
+556,NLSTLAALVAAAG,inactive - virtual
+557,NLTQLKASFAVQ,inactive - virtual
+558,NLVADMRFNVVRESEARLQVSRLYS,inactive - virtual
+559,NNAITKGFTALEKLLV,inactive - virtual
+560,NPAAEKMQVLQVLDRLRGKLQEKG,inactive - virtual
+561,NPAQYLAQHEQLL,inactive - virtual
+562,NPARALYQTVRELIENSLDA,inactive - virtual
+563,NPEILLARVKRFLERE,inactive - virtual
+564,NPERVLLQLKYRYDVEI,inactive - virtual
+565,NPGQAIWLGEFSKRH,inactive - virtual
+566,NPMIIEGQIHGGLTEGYAVAMG,inactive - virtual
+567,NPQVLADIGAEAT,inactive - virtual
+568,NPRWIGRHKHMFNFLD,inactive - virtual
+569,NPVLQQHFRNLEALAL,inactive - virtual
+570,NQDELEGYNLFKGSG,inactive - virtual
+571,NQPFALEMIKSRQKKD,inactive - virtual
+572,NQRALLKSLQDYRQHLDQLITLISN,inactive - virtual
+573,NREANLQALIATG,inactive - virtual
+574,NRKMAMGRKKFNMD,inactive - virtual
+575,NSDQDAGIAIIRRAL,inactive - virtual
+576,NSNHQMLLVQQAEDKIKELLNT,inactive - virtual
+577,NSNTFLTRLLVHM,inactive - virtual
+578,NSREREMFVQEVRRYY,inactive - virtual
+579,NSSDSIDWLTSM,inactive - virtual
+580,NSVLRAVAEVYA,inactive - virtual
+581,NTDTLERVTEIFKALG,inactive - virtual
+582,NTEKLLKTVPIIQNQMDALLD,inactive - virtual
+583,NTPEAYSVLFDMAREVNRLKAED,inactive - virtual
+584,NVGKAWAEDVLALVKH,inactive - virtual
+585,NVKDLADAAKRT,inactive - virtual
+586,NVKDVTKLVAN,inactive - virtual
+587,NWDDMEKIWHHTFYN,inactive - virtual
+588,NYAHLNRGIALYYG,inactive - virtual
+589,NYEEIYILNHILR,inactive - virtual
+590,NYEKFSETKERLLEKF,inactive - virtual
+591,PAERYYRDARIT,inactive - virtual
+592,PALDILKALVDNLYVEN,inactive - virtual
+593,PATSRKIFKYIRELDE,inactive - virtual
+594,PDEVSALRRTTEKNTTTLINLAKQH,inactive - virtual
+595,PDFRKAFKRLL,inactive - virtual
+596,PDIKAQYQQRWL,inactive - virtual
+597,PDYREVMETFQE,inactive - virtual
+598,PEALTVAATEVRRIRDRAIQSDAQVAPMTT,inactive - virtual
+599,PEDFANHLFTVFD,inactive - virtual
+600,PEKEAVTLGIKALKSSL,inactive - virtual
+601,PEVQIAILTEQINNLNEHLRV,inactive - virtual
+602,PEYEHLYTELTGTIVLLIES,inactive - virtual
+603,PGLRRAWKRLQ,inactive - virtual
+604,PGRIQRVARGS,inactive - virtual
+605,PIAFIHKAI,inactive - virtual
+606,PIDIDYMISDTLELLR,inactive - virtual
+607,PIEAFLRLNEELEERG,inactive - virtual
+608,PIKFIRKA,inactive - virtual
+609,PKAYAQHVFRS,inactive - virtual
+610,PKPLVSFFQSLLQLVNHDLLEQQN,inactive - virtual
+611,PLEELFLEQLEA,inactive - virtual
+612,PLGRLIHMVNQKKDRLLNEYLS,inactive - virtual
+613,PLTKGILGFVFTLT,inactive - virtual
+614,PNDMSRIFNIVKESL,inactive - virtual
+615,PNGPTHAPWLLAHKIQ,inactive - virtual
+616,PQHERDVIYEEES,inactive - virtual
+617,PQSYAMAIARQESA,inactive - virtual
+618,PQYALELLTVYAWEQGS,inactive - virtual
+619,PQYSQARVMLVKTISMISIVDDTFDA,inactive - virtual
+620,PRESFAVLASALALMAAVFERLAVEIRELS,inactive - virtual
+621,PRRQQSLALRWLVQAANQ,inactive - virtual
+622,PSALIDQEINVLRQQAAQRF,inactive - virtual
+623,PSDQQNEMVRE,inactive - virtual
+624,PSFFRLHKYMDNIFKKHTD,inactive - virtual
+625,PSSQIVGTQAVFNVMMG,inactive - virtual
+626,PSVVANTVKGG,inactive - virtual
+627,PTKEREQVIAHLGL,inactive - virtual
+628,PTLLDLFAEDIGHANQLLQLVDEEFQALER,inactive - virtual
+629,PVSDTMDMLTKL,inactive - virtual
+630,PWTQRFFESFG,inactive - virtual
+631,QAGNYASMFWLT,inactive - virtual
+632,QAKEVLKQHFEKS,inactive - virtual
+633,QARVWVARAVSEHQRFTA,inactive - virtual
+634,QASTGSLLNILR,inactive - virtual
+635,QDDVLEALSAAVR,inactive - virtual
+636,QDELVWGAYWLYKAT,inactive - virtual
+637,QDLLDRVLAAHAYWSQ,inactive - virtual
+638,QEWVELMVEAKE,inactive - virtual
+639,QFRRGANFKFELGEILEND,inactive - virtual
+640,QFSRQMLDRKLLLG,inactive - virtual
+641,QGLAEKIFWSLK,inactive - virtual
+642,QHLAKLEMKIFFEEL,inactive - virtual
+643,QIKQTNAGAVYRLIDQLG,inactive - virtual
+644,QINEMHLLIQQAR,inactive - virtual
+645,QIPRIAREKIRGLTEYF,inactive - virtual
+646,QLEESMLYSLN,inactive - virtual
+647,QLLRGVGAAATAVTQALNELLQHVKA,inactive - virtual
+648,QLVDRLDQSWQYYQDRLMA,inactive - virtual
+649,QLVSFLIRLLKVWIRVVI,inactive - virtual
+650,QMSFWGATVITGLFG,inactive - virtual
+651,QPNAILEKVFTA,inactive - virtual
+652,QRAFLKLYMITMTE,inactive - virtual
+653,QTREHLLLARQI,inactive - virtual
+654,QVIAKWGAWVKRIEAKFRSL,inactive - virtual
+655,QVIEVLNKQVADWSVLFTKLHNFHWYV,inactive - virtual
+656,QVTQELRALMDETMKELKAYKSELEE,inactive - virtual
+657,RAAAIEQLKIWGERVG,inactive - virtual
+658,RDIPELAQLQSEILDAIW,inactive - virtual
+659,REEEKEALRFAEAQ,inactive - virtual
+660,REEIYQAFEAIYPVLSEF,inactive - virtual
+661,REGFLSPLKAYLI,inactive - virtual
+662,RFESAVETLLDIESQLEDL,inactive - virtual
+663,RFLIRVYHPLLLKVL,inactive - virtual
+664,RFLKRVQPLVNRWLLLI,inactive - virtual
+665,RFSGKVREDLTKIVWVFFW,inactive - virtual
+666,RFVPRWRTVVGQFKRDILVIFLW,inactive - virtual
+667,RGEQMKGHAATIEDQVRRMIA,inactive - virtual
+668,RGFRGWWLASTILLLVAEK,inactive - virtual
+669,RGQLIREAYED,inactive - virtual
+670,RHSDNINKFLDFIHGI,inactive - virtual
+671,RIENGLRKRLQSIYRHLEE,inactive - virtual
+672,RILKNFDSWWGKVIVIL,inactive - virtual
+673,RILQWIIRLLLIVWW,inactive - virtual
+674,RIWARLQGVFRVVFWL,inactive - virtual
+675,RKQSLEQDLQFYYG,inactive - virtual
+676,RLDEAEASARSGIEVL,inactive - virtual
+677,RLFEQASRLAEHY,inactive - virtual
+678,RLKSGWRDALKQIVFFFFL,inactive - virtual
+679,RLLGKWSAILKNVRFFFFWL,inactive - virtual
+680,RLVVLEALTNFLNH,inactive - virtual
+681,RLWTQWQAIVQEIRFLWLLL,inactive - virtual
+682,RMDEVRTLQENLRQLQDEYDQQQT,inactive - virtual
+683,RNEVVSLMQANG,inactive - virtual
+684,RPEDKSKIVAEIR,inactive - virtual
+685,RPEVQDALSAE,inactive - virtual
+686,RPQLRNLLHEK,inactive - virtual
+687,RPRIIAAIWHYVKAR,inactive - virtual
+688,RRQELEEFSAALARR,inactive - virtual
+689,RVIEGIKNVIPKLLTWWP,inactive - virtual
+690,RVNAAIPNIIV,inactive - virtual
+691,RVWRWIVKWWLFV,inactive - virtual
+692,RYGWRTAVDYSWFG,inactive - virtual
+693,SAATADFVAMTAMAARIF,inactive - virtual
+694,SAAWAEWQKAR,inactive - virtual
+695,SAEEMVQTLVNDYSALIQELKEGMEVAGEA,inactive - virtual
+696,SANNIIEEIQMQK,inactive - virtual
+697,SASSQNAWLAANRN,inactive - virtual
+698,SAVKVLAEESK,inactive - virtual
+699,SDEFNTVADNLVTFGDSFLQVILDHI,inactive - virtual
+700,SDELSRAWEVAYDELAAAIK,inactive - virtual
+701,SDIFNKNMRAHALEK,inactive - virtual
+702,SDIKKLGSSWIINWFFG,inactive - virtual
+703,SDSEISTILSDVVTNER,inactive - virtual
+704,SDWYLKGRLTSLESQFINALGILET,inactive - virtual
+705,SEAAKAYMKGLEYQMSGNEQWSKT,inactive - virtual
+706,SEEEENNVIEQAKEEIKEAIKKADET,inactive - virtual
+707,SEELNSAWTIAYDELAIVIKKEMDDA,inactive - virtual
+708,SEERIRSGVKRLSKSRQ,inactive - virtual
+709,SEEVLAMVSRKM,inactive - virtual
+710,SEEYIQLLKKLI,inactive - virtual
+711,SEREAVEIIKKN,inactive - virtual
+712,SESAVSHQLRSLRNL,inactive - virtual
+713,SESKLIEQAFR,inactive - virtual
+714,SFADFKAQFTDAAIKN,inactive - virtual
+715,SFDRVMNAIEEN,inactive - virtual
+716,SFSRIISELGTRD,inactive - virtual
+717,SGARRVRIAQTLTEN,inactive - virtual
+718,SGDELYELLQHILKQRDHHHHH,inactive - virtual
+719,SGPAYVFYLLDALQNAAIRQ,inactive - virtual
+720,SGRFWKLYIEAEIKA,inactive - virtual
+721,SGTIKAAHEVLMEMG,inactive - virtual
+722,SHAQDIYKEAFNSAWDQY,inactive - virtual
+723,SIDEKYEAEVKKSEIDHHK,inactive - virtual
+724,SIERLLEMESL,inactive - virtual
+725,SIPHLANLLIERSQ,inactive - virtual
+726,SISRYKTIEWLNYIATEL,inactive - virtual
+727,SKDALMLEAFEQLLGKRRELLGE,inactive - virtual
+728,SKDLAQTSYFMATNSLHLT,inactive - virtual
+729,SKEDIDTAMKLGAG,inactive - virtual
+730,SKEDVERVKLRINLARNWVKKY,inactive - virtual
+731,SKEEQRDYVFYLAVGNYRL,inactive - virtual
+732,SKIQKELVAIMN,inactive - virtual
+733,SKPIQNVESGFIFALVS,inactive - virtual
+734,SKYLKSLLSLM,inactive - virtual
+735,SKYRLTVVVAKRAQQLLRH,inactive - virtual
+736,SLAEALGWLFVSEGS,inactive - virtual
+737,SLEQQFSIRSFATQVQNM,inactive - virtual
+738,SLESLIDMITSI,inactive - virtual
+739,SLKDQLALAIGKLG,inactive - virtual
+740,SLLPTLSAIAEL,inactive - virtual
+741,SLPEMFDKMRPYYEESKKRVKE,inactive - virtual
+742,SMDHRIERLEYYIQLLVK,inactive - virtual
+743,SNEQRQDIAFAYQRRTK,inactive - virtual
+744,SNEVMRILISRSLLQE,inactive - virtual
+745,SNTELQAVDGRFKRAVASMEAARALTNN,inactive - virtual
+746,SPAEVRDLDFANDASKVLGSIAGKLEK,inactive - virtual
+747,SPAQAEALGVWRRYRAYFDA,inactive - virtual
+748,SPAVIDYVNRLEEIRDNV,inactive - virtual
+749,SPAVQMKIKELYRRR,inactive - virtual
+750,SPEEAAALVDGLR,inactive - virtual
+751,SPEEKEEWMKSIKASISR,inactive - virtual
+752,SPEHRQELIER,inactive - virtual
+753,SPEIASGLKKLIRE,inactive - virtual
+754,SPEQMQVLLDQAG,inactive - virtual
+755,SPEVVVARGEQE,inactive - virtual
+756,SPKEAYAYLEKLRSIIQYTG,inactive - virtual
+757,SPKESEVLRLFAEG,inactive - virtual
+758,SPKSTYSYWASVLN,inactive - virtual
+759,SPSKSLQMILRRALGDFENMLAD,inactive - virtual
+760,SPVVIKKRIEGLIER,inactive - virtual
+761,SQESINQLVYMG,inactive - virtual
+762,SQRQRDELNRAIADYLRSN,inactive - virtual
+763,SRAITQYIAHR,inactive - virtual
+764,SRAKASFDTRVAAAELALNR,inactive - virtual
+765,SRDLQEKYERHMEKLIELANKEVERT,inactive - virtual
+766,SRKALTEGNIMAVQAMAYFKELIQKRKRH,inactive - virtual
+767,SRPLHISTFINELDSGFRLL,inactive - virtual
+768,SRWGVLILVAL,inactive - virtual
+769,SSAVSRIISKLKQ,inactive - virtual
+770,SSQNWQRFYQLTKLLDSMHEVVENLL,inactive - virtual
+771,SSREWFSTLYRLFIG,inactive - virtual
+772,STATFYDAKKFLIQE,inactive - virtual
+773,STEVVALSRLQGSLQDMLWQLDLS,inactive - virtual
+774,STLVQTPALRAVGNIV,inactive - virtual
+775,STLVSVAVALAAYKTG,inactive - virtual
+776,SVADHSYRVAFITLLLAEELKKK,inactive - virtual
+777,SVEGLQEFVKNLVGYYI,inactive - virtual
+778,SVEKKVPLLHNFHSFL,inactive - virtual
+779,SVEVAELWSTFMQKWIAYTAAVIDAERDR,inactive - virtual
+780,SVLENHHLAVGFKL,inactive - virtual
+781,SVNSEIYQRVMESFKKEG,inactive - virtual
+782,SVPYFIENLKQHIEMN,inactive - virtual
+783,SVRKVFHLVRIKQVAWANEG,inactive - virtual
+784,SVSRAAITAAY,inactive - virtual
+785,SVSSIKQAVDFLSNE,inactive - virtual
+786,SVTELITKAVSA,inactive - virtual
+787,SVTKILQRFEDAGG,inactive - virtual
+788,SVWASISSYLDELTEGL,inactive - virtual
+789,SWQSLKDRYLKHL,inactive - virtual
+790,SYKDLFLELYGKIKD,inactive - virtual
+791,TAAQELMIQQLVAAQLQ,inactive - virtual
+792,TAEQRREMLEAKRKQIINFISRN,inactive - virtual
+793,TAESFYNQGIRLSFEQWG,inactive - virtual
+794,TAHEAVLDFLTGRVEVFT,inactive - virtual
+795,TAKQIQAAYLLVENELM,inactive - virtual
+796,TAPEMTALVGGMRVLG,inactive - virtual
+797,TDAEAKQLAQWILS,inactive - virtual
+798,TDKQFENRLNDNLEELIQ,inactive - virtual
+799,TDLEILALLIAALSH,inactive - virtual
+800,TDQQKVSEIFQSSKEKLQGDAKVVSDAFK,inactive - virtual
+801,TEAKKEELLRKLNILEVF,inactive - virtual
+802,TEEEMLQAAHITAKLAQAAET,inactive - virtual
+803,TEKGKEIFGEILSNFESLLKSVLEK,inactive - virtual
+804,TEQDIIDLKFAIAD,inactive - virtual
+805,TEQNFQLAKQIQSQWKEFG,inactive - virtual
+806,TEREQALAAYAEKLTRH,inactive - virtual
+807,TESMKTVRIREKIKKFL,inactive - virtual
+808,TETQIRELLFDLELAYKSFYALL,inactive - virtual
+809,TEVYQILNRVS,inactive - virtual
+810,TFPDKALKGKKSIENIVV,inactive - virtual
+811,TFPEWHRLYTVQFEDALRRH,inactive - virtual
+812,TFPNWHRLLTKQMEDALVAK,inactive - virtual
+813,TFSQVLDDLSARFI,inactive - virtual
+814,TGALRTQYDVSLMTVKS,inactive - virtual
+815,THAEMLHALKERY,inactive - virtual
+816,THNKLLKNVAFMKSYILEKVKEHQES,inactive - virtual
+817,TIEEFHSKLQEATN,inactive - virtual
+818,TIQSRFNYAWGLIKS,inactive - virtual
+819,TISLGVSIAHVMEAVE,inactive - virtual
+820,TITEMVFLAEVYKSGG,inactive - virtual
+821,TIVELVVRVWRWFLVIWVLW,inactive - virtual
+822,TKDEFMSGEPIFTKYFQNLV,inactive - virtual
+823,TKDEQVEGLLA,inactive - virtual
+824,TKGEREMIVVATSAAN,inactive - virtual
+825,TKIWLNAARRTGKVPARIRKL,inactive - virtual
+826,TLDQMRSRLAYDG,inactive - virtual
+827,TLEDYVRYVTLDM,inactive - virtual
+828,TLIREWGDAVFDIF,inactive - virtual
+829,TMEGKFKAVAEDVAQRYMT,inactive - virtual
+830,TMVQAITDALRIELKND,inactive - virtual
+831,TNDEIFSILKD,inactive - virtual
+832,TPAKALKSAIHVAYILKK,inactive - virtual
+833,TPDQQTLLHFIMDSYN,inactive - virtual
+834,TPEEVKKHYEILVEDIKYIESG,inactive - virtual
+835,TPEEYQTYVAQVDK,inactive - virtual
+836,TPEKMGEMAQKFRE,inactive - virtual
+837,TPEKRVDRIFAMMD,inactive - virtual
+838,TPERLEKLVKEVL,inactive - virtual
+839,TPETITHYLETVNHAM,inactive - virtual
+840,TPEVVKERLLS,inactive - virtual
+841,TPLGIGITDYYIR,inactive - virtual
+842,TPQDIADRERIFKRFD,inactive - virtual
+843,TPSDIKELRDAMAKVQAD,inactive - virtual
+844,TPVYRTAIRYYLQMLF,inactive - virtual
+845,TPWSKGFLASSYASR,inactive - virtual
+846,TPYDAKGLLISAIRD,inactive - virtual
+847,TQAQETQGQAAARAAAADLAAG,inactive - virtual
+848,TQDLRSHLVHKLVQAIF,inactive - virtual
+849,TQGLLSEILRK,inactive - virtual
+850,TQGMQNAMGERFAQYALSSEKLY,inactive - virtual
+851,TQSDVYAMVGYIHELW,inactive - virtual
+852,TRELAYMIKKA,inactive - virtual
+853,TRTQRRIAVVEFIFSLL,inactive - virtual
+854,TSAQTKVVVDA,inactive - virtual
+855,TSFDEYVAELDSK,inactive - virtual
+856,TSHLMGMFYRTIRMMEN,inactive - virtual
+857,TTDEINAMDKALILYT,inactive - virtual
+858,TTGNFEKLFVALVEYMRAS,inactive - virtual
+859,TVEEVNALKNEILKAHA,inactive - virtual
+860,TVFGTALNYVSLRIL,inactive - virtual
+861,TVLAALFLAGS,inactive - virtual
+862,TYYAKDIAFQFWKM,inactive - virtual
+863,VADIAKLKVNIIKNVRII,inactive - virtual
+864,VADPVAAFKWRAQ,inactive - virtual
+865,VDDNLYPQLERASRKIFEFLERE,inactive - virtual
+866,VEAIEALLKGN,inactive - virtual
+867,VFWPTMLKAAG,inactive - virtual
+868,VGVLLQLLVQA,inactive - virtual
+869,VGYETAAKLAREAYLTG,inactive - virtual
+870,VHVLADAFKRYLLD,inactive - virtual
+871,VIDPLHTHLTRLVAAYTG,inactive - virtual
+872,VKYAVFEAALTKAITAMSEVQKVSQ,inactive - virtual
+873,VLSFKTGIISL,inactive - virtual
+874,VMELLTKTLGWDIQEELNKLT,inactive - virtual
+875,VMGQNLILNMND,inactive - virtual
+876,VMPSLLQAFDLTA,inactive - virtual
+877,VMQWVIRILGGGLQKAL,inactive - virtual
+878,VNFLVADALKQHRHRRDDVIVMLSAR,inactive - virtual
+879,VNQFLDYLQEFLGVMNT,inactive - virtual
+880,VPMQRVLKYHLLLQELVK,inactive - virtual
+881,VQEVNRFIKAFEEMKALMKSL,inactive - virtual
+882,VSDARSAITSAQELLDS,inactive - virtual
+883,VWHYALWSLIQQSEILFAQ,inactive - virtual
+884,VYGPFWKNWQAQ,inactive - virtual
+885,WATLLAQWADRAL,inactive - virtual
+886,WDDIRNDLFRIQNDLFVLGEDVST,inactive - virtual
+887,YAKGALQYLVPILTQTLT,inactive - virtual
+888,YDDIIEAAGELG,inactive - virtual
+889,YDLLKDLEEGIQTLMGRL,inactive - virtual
+890,YEDKAVELYSRTAR,inactive - virtual
+891,YETLEFLGDALVNFFIVDLLVQYS,inactive - virtual
+892,YFSKGIPNVLRR,inactive - virtual
+893,YGSIGLTNFGYLDKE,inactive - virtual
+894,YKEPLKAVVKKLLEKE,inactive - virtual
+895,YKKFRQLIQVN,inactive - virtual
+896,YLADLFLAPQIHGAINRFQ,inactive - virtual
+897,YLDKEVKLIKKMGNHLTNLRRVA,inactive - virtual
+898,YLSESVETIKKLGDHITSLKKLW,inactive - virtual
+899,YPIVDAAMRQLTETG,inactive - virtual
+900,YQNIVKAVQYAARKLQ,inactive - virtual
+901,YQQQKKYLGRMTE,inactive - virtual
